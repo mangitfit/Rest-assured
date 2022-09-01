@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "firstName": "Manthan",
+      "LastName": "Pole",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Marcin",
+      "LastName": "lewis",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Manthan",
+      "LastName": "Pole",
+      "subjectId": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Manthan",
+      "LastName": "Pole",
+      "subjectId": 1,
+      "id": 4
+    },
+    {
+      "firstName": "Thomas",
+      "LastName": "Edison",
+      "subjectId": 1,
+      "id": 5
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 2
+    },
+    {
+      "name": "Manual",
+      "id": 3
+    }
+  ]
+}
